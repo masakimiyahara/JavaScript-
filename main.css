@@ -1,0 +1,19 @@
+body  {
+    padding: 30px;
+    
+}
+
+#timer {
+    margin-left: 25px;
+    font-size: 28px;
+}
+
+button {
+    margin-top: 30px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.inactive {
+    opacity: 0.6;
+}
